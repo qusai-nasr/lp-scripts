@@ -6,6 +6,9 @@ from datetime import datetime
 from time import sleep
 from requests_oauthlib import OAuth1
 
+
+# Documentation: https://developers.liveperson.com/messaging-interactions-api-methods-conversations.html
+
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
